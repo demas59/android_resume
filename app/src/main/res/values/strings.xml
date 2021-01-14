@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidResume</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name">Aymeric De Massary\nDeveloppeur Fullstack</string>
+    <string name="profilImage">image de profile</string>
+    <string name="contact">Contact</string>
+    <string name="contactField">demasay@gmail.com\n06 95 56 72 93\nLille</string>
+    <string name="exp">Expériences</string>
+    <string name="exp_content_title">Alternant Developpeur Fullstack Auchan Retails International</string>
+    <string name="exp_content_1">- Developpement d\'une application de gestion d\'habilitation en java 8 et Angular 8</string>
+    <string name="exp_content_2">- Refacto d\'une application référencielle en VueJs</string>
+    <string name="study">Education</string>
+    <string name="study_content_title_1">ISEN Lille 2018-2021</string>
+    <string name="study_content_title_2">DUT Informatique 2017-2018</string>
+</resources>
