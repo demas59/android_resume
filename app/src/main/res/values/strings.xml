@@ -20,4 +20,9 @@
     <string name="study">Education</string>
     <string name="study_content_title_1">ISEN Lille 2018-2021</string>
     <string name="study_content_title_2">DUT Informatique 2017-2018</string>
+    <string name="techno">Technologie</string>
+    <string name="java">Java</string>
+    <string name="Angular">Angular</string>
+    <string name="vueJs">vueJs</string>
+
 </resources>
